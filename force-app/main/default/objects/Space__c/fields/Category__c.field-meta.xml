@@ -55,6 +55,11 @@
                 <default>false</default>
                 <label>Walking Meditation Paths</label>
             </value>
+            <value>
+                <fullName>Building Block Room</fullName>
+                <default>false</default>
+                <label>Building Block Room</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
